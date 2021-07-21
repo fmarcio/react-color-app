@@ -1,3 +1,35 @@
+# About the project: Color App :computer:
+
+## English
+
+Simple project to practice some React fundamentals (props and state).
+
+The user types a color name (or its hex value) and app displays it.
+
+The whole project is responsive.
+
+## Português
+
+Projeto simples feito pra praticar alguns fundamentos de React (props e state).
+
+O usuário digita o nome de uma cor (ou seu valor hexadecimal) e a aplicação a exibe.
+
+Todo o projeto é responsivo.
+
+**Confira como ficou o projeto** [aqui](https://fmarcio.github.io/quote-generator/)
+
+## Social Media / Redes Sociais
+
+### Linkedin
+
+[Linkedin](https://www.linkedin.com/in/marciofonseca88/)
+
+### Behance
+
+[Behance](https://www.behance.net/marcio-fonseca)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,33 +100,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# About the project: Color App :computer:
-
-## English
-
-Simple project to practice some React fundamentals (props and state).
-
-The user types a color name (or its hex value) and app displays it.
-
-The whole project is responsive.
-
-## Português
-
-Projeto simples feito pra praticar alguns fundamentos de React (props e state).
-
-O usuário digita o nome de uma cor (ou seu valor hexadecimal) e a aplicação a exibe.
-
-Todo o projeto é responsivo.
-
-**Confira como ficou o projeto** [aqui](https://fmarcio.github.io/quote-generator/)
-
-## Social Media / Redes Sociais
-
-### Linkedin
-
-[Linkedin](https://www.linkedin.com/in/marciofonseca88/)
-
-### Behance
-
-[Behance](https://www.behance.net/marcio-fonseca)
