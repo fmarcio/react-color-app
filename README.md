@@ -16,8 +16,6 @@ O usuário digita o nome de uma cor (ou seu valor hexadecimal) e a aplicação a
 
 Todo o projeto é responsivo.
 
-**Confira como ficou o projeto** [aqui](https://fmarcio.github.io/quote-generator/)
-
 ## Social Media / Redes Sociais
 
 ### Linkedin
