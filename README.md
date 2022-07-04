@@ -6,7 +6,7 @@ Simple project to practice some React fundamentals (props and state).
 
 The user types a color name (or its hex value) and app displays it.
 
-The whole project is responsive.
+The whole project is responsive. Site deployed [here](https://lovely-bonbon-761762.netlify.app/)
 
 ## Português
 
@@ -14,7 +14,7 @@ Projeto simples feito pra praticar alguns fundamentos de React (props e state).
 
 O usuário digita o nome de uma cor (ou seu valor hexadecimal) e a aplicação a exibe.
 
-Todo o projeto é responsivo.
+Todo o projeto é responsivo. Deploy do site [aqui](https://lovely-bonbon-761762.netlify.app/)
 
 ## Social Media / Redes Sociais
 
